@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Topic.htm"></TocEntry>
+  <TocEntry
+    Title="Child"
+    Link="../../../Child-toc-targets/Child-toc-targets.flprj"
+    AbsoluteLink="file:///C:/Users/avillasenor/Documents/My Projects/20171106/Child-toc-targets/Child-toc-targets.flprj" />
+</CatapultToc>
